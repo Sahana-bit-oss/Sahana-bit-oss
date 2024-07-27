@@ -21,7 +21,10 @@ Computer Application student
 <br /> <br />
 Description: During my internship at L&T Edutech, I worked with Microsoft SQL Server (MSSQL), focusing on creating, modifying, and managing stored procedures. This hands-on experience enhanced my practical SQL skills and database management knowledge.
 
-- Solved around **800 problems** across various coding platforms like [Hackerrank](https://www.hackerrank.com/profile/h22105047), and [Skillrack](https://www.skillrack.com/faces/resume.xhtml?id=417896&key=e6e4db72d203c5c0ac0ffc19ea568ed297becd48).
+## Activities
+- Solved around **800+ problems** across various coding platforms like [Hackerrank](https://www.hackerrank.com/profile/h22105047) and [Skillrack](https://www.skillrack.com/faces/resume.xhtml?id=417896&key=e6e4db72d203c5c0ac0ffc19ea568ed297becd48).
 
+---
 🌟 Let's Connect
+<br />
 If you're looking for a passionate developer, have a project in mind, or just want to chat, feel free to contact. Let's build something amazing together!
