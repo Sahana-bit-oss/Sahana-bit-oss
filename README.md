@@ -1,7 +1,7 @@
 # Hi there 👋 It's me Sahana
 
 Computer Application student 
-<img align="right" width="370" height="270" src="https://imgvisuals.com/cdn/shop/products/animated-female-coder-character-402691.gif?v=1698899292">
+<img align="right" width="370" height="250" src="https://imgvisuals.com/cdn/shop/products/animated-female-coder-character-402691.gif?v=1698899292">
 
 - 🌱 I’m currently learning Mern Stack
 - 👯 Looking forward to collaborating with more people
