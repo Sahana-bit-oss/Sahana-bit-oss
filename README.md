@@ -18,4 +18,5 @@ Computer Application student
 
 ## Experience
 👩🏽‍💻Intern at L&T Edutech, chennai for 1 month 
-<br /> Description: During my internship at L&T Edutech, I worked with Microsoft SQL Server (MSSQL), focusing on creating, modifying, and managing stored procedures. This hands-on experience enhanced my practical SQL skills and database management knowledge.
+<br /> <br />
+Description: During my internship at L&T Edutech, I worked with Microsoft SQL Server (MSSQL), focusing on creating, modifying, and managing stored procedures. This hands-on experience enhanced my practical SQL skills and database management knowledge.
