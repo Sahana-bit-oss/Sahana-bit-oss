@@ -27,7 +27,7 @@ Description: During my internship at L&T Edutech, I worked with Microsoft SQL Se
 # Publications
 
 ## AI in the Industrial Sector
-I have published a paper on "AI in the Industrial Sector," showcasing the transformative impact of artificial intelligence in industrial applications.
+I have published a paper on "AI in the Industrial Sector", showcasing the transformative impact of artificial intelligence in industrial applications.
 
 
 ---
