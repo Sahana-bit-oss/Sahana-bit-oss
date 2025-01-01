@@ -17,6 +17,10 @@ Computer Application student
 <br /> 
 
 ## Experience
+👩🏽‍💻Intern at Infosys Springboard, 3 month 
+<br /> <br />
+Description: During my internship at Infosys Springboard, enhancing my skills in software development, team collaboration, and problem-solving.
+
 👩🏽‍💻Intern at L&T Edutech, chennai for 1 month 
 <br /> <br />
 Description: During my internship at L&T Edutech, I worked with Microsoft SQL Server (MSSQL), focusing on creating, modifying, and managing stored procedures. This hands-on experience enhanced my practical SQL skills and database management knowledge.
