@@ -19,7 +19,7 @@ Computer Application student
 ## Experience
 👩🏽‍💻Intern at Infosys Springboard, 3 month 
 <br /> <br />
-Description: During my internship at Infosys Springboard, enhancing my skills in software development, team collaboration, and problem-solving.
+Description: Interned at Infosys Springboard for 3 months, where I honed my skills in software development, problem-solving, and team collaboration. Worked extensively with Angular and Spring Boot, contributing to real-world projects and gaining valuable hands-on experience.
 
 👩🏽‍💻Intern at L&T Edutech, chennai for 1 month 
 <br /> <br />
